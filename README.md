@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Coriander Cilantro, not to be confused with Parsley.
+
+🌱 I’m currently learning ... Rust, libp2p.
+
 <!--
 **hellowhoami/hellowhoami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
